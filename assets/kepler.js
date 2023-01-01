@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 /* eslint-disable no-undef */
 console.log(' %c Maverick & Kepler By AlanDecode %c https://www.imalan.cn/ ', 'color: #fadfa3; background: #23b7e5; padding:5px;', 'padding:5px;');
+console.log(' %c 特坑工作室,一切只为坑 %c ', 'color: #fadfa3; background: #23b7e5; padding:5px;', 'padding:5px;');
 
 var initPage = function (refresh) {
     $('.toggle_sidebar').click(function () {
